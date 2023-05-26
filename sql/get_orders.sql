@@ -1,0 +1,1 @@
+SELECT * FROM shops s left join orders o on s.id=o.shop_id
